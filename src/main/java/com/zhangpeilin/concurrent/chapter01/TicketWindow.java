@@ -1,9 +1,9 @@
 package com.zhangpeilin.concurrent.chapter01;
 
 /**
- * @Author: ZhangPeiL1n
- * @Date: 2020/8/2 21:42
- * @Description:模拟叫号机程序
+ * @author ZhangPeiL1n
+ * @date 2020/8/2 21:42
+ * @Description 模拟叫号机程序
  **/
 public class TicketWindow extends Thread {
     /**

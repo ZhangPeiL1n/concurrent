@@ -6,9 +6,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * @Author: ZhangPeiL1n
- * @Date: 2020/8/3 21:16
- * @Description:
+ * @author ZhangPeiL1n
+ * @date 2020/8/3 21:16
+ * @Description
  **/
 public class RecordQuery {
     private final Connection connection;

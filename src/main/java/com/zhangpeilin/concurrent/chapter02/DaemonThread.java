@@ -1,9 +1,9 @@
 package com.zhangpeilin.concurrent.chapter02;
 
 /**
- * @Author: ZhangPeiL1n
- * @Date: 2020/8/13 16:44
- * @Description:
+ * @author ZhangPeiL1n
+ * @date 2020/8/13 16:44
+ * @Description
  **/
 public class DaemonThread {
     public static void main(String[] args) throws InterruptedException {

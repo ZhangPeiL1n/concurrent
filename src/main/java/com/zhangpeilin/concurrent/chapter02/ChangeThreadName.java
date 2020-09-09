@@ -3,9 +3,9 @@ package com.zhangpeilin.concurrent.chapter02;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @Author: ZhangPeiL1n
- * @Date: 2020/8/3 23:06
- * @Description:判断一下线程在运行时是否可以改变名称
+ * @author ZhangPeiL1n
+ * @date 2020/8/3 23:06
+ * @Description 判断一下线程在运行时是否可以改变名称
  **/
 public class ChangeThreadName {
     public static void main(String[] args) throws InterruptedException {

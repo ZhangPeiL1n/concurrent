@@ -3,9 +3,9 @@ package com.zhangpeilin.concurrent.chapter02;
 import java.util.stream.IntStream;
 
 /**
- * @Author: ZhangPeiL1n
- * @Date: 2020/8/3 22:22
- * @Description:
+ * @author ZhangPeiL1n
+ * @date 2020/8/3 22:22
+ * @Description
  **/
 public class ThreadConstruction {
     private final static String PREFIX = "ALEX-";

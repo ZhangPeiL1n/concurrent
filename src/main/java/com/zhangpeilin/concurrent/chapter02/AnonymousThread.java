@@ -3,9 +3,9 @@ package com.zhangpeilin.concurrent.chapter02;
 import java.util.stream.IntStream;
 
 /**
- * @Author: ZhangPeiL1n
- * @Date: 2020/8/3 22:19
- * @Description: 未主动命名的线程，使用 “Thread-” + 自增数字 的命名方式
+ * @author ZhangPeiL1n
+ * @date 2020/8/3 22:19
+ * @Description 未主动命名的线程，使用 “Thread-” + 自增数字 的命名方式
  **/
 public class AnonymousThread {
     public static void main(String[] args) {

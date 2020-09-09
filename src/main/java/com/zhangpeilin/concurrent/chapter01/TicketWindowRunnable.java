@@ -1,9 +1,9 @@
 package com.zhangpeilin.concurrent.chapter01;
 
 /**
- * @Author: ZhangPeiL1n
- * @Date: 2020/8/3 21:50
- * @Description:
+ * @author ZhangPeiL1n
+ * @date 2020/8/3 21:50
+ * @Description
  **/
 public class TicketWindowRunnable implements Runnable {
 
