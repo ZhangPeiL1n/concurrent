@@ -36,7 +36,6 @@ public class LinkedRunnableQueue implements RunnableQueue {
                 runnableList.notifyAll();
             }
         }
-
     }
 
     @Override
